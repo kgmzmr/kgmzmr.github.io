@@ -1,0 +1,23 @@
+{"quizlist":[
+
+	{
+	"question":"Which picture have you seen before?",
+	"option1":"correct/1.jpg",
+	"option2":"wrong/1.jpg"
+
+	},
+	{
+	"question":"Which picture have you seen before?",
+	"option1":"labrador.png",
+	"option2":"beagle.png"
+
+	},
+	{
+	"question":"Which picture have you seen before?",
+	"option1":"meerkat.png",
+	"option2":"chipmunk.png"
+
+	}
+
+]
+}
